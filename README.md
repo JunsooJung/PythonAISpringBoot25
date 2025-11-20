@@ -1,4 +1,4 @@
-<img width="1241" height="757" alt="image" src="https://github.com/user-attachments/assets/cf3fd32e-25c5-4e6e-9093-19bc017be51c" /># PythonAISpringBoot25
+
 스프링부트와파이썬을결합한AI풀스택개발
 
 스프링부트와파이썬AI협업모듈
@@ -25,3 +25,5 @@ main.py 실행 Terminal에서 D:\phthonWorkSpace> uvicorn main:app --reload --po
 
 
 <img width="1241" height="757" alt="image" src="https://github.com/user-attachments/assets/e9b12295-c8af-4f6d-832d-63c4f3a9072b" />
+
+
