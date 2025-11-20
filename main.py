@@ -51,5 +51,6 @@ async def read_item(item_id : int, q : str = None):
 # q = Query
 #postman => 프론트 없는 백엔드 테스트용
 # 서버실행 uvicorn main:app --reload --port 8001
+#some change
 
 
