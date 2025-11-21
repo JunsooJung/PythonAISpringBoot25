@@ -2,6 +2,7 @@
 스프링부트와파이썬을결합한AI풀스택개발
 
 스프링부트와파이썬AI협업모듈
+<img width="2813" height="1372" alt="image" src="https://github.com/user-attachments/assets/40626541-08e3-4a1a-9f5e-bb47295ed4bb" />
 
 ### 개발환경구축
 
